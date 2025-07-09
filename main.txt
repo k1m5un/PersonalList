@@ -13,24 +13,6 @@ app.raindrop.io##.upgrade-R9fx
 ! hacker news
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
-! bitly/tiengruoi
-15.235.211.51^$popup
-vebo.bet^$popup
-##a[href*="https://banner.1xcakeo.bet"]
-##a[href*="https://798753.com"]
-##a[href*="https://vebo.tv"]
-##a[href*="https://cakeo.tv"]
-##a[href*="https://thapcam.tv"]
-##a[href*="15.235.211.51"]
-##div[style*='url("/img/cuoc-ngay.gif")']
-||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
-||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org
-! Testing
-||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
-! uBlock
-/4shares\.live\/.*\.gif$/$image,domain=vebo4.net|thapcam73.live|cakeotv.org
-! AdGuard
-/^https?:\/\/([a-z0-9-]+\.)?4shares\.live\/.*\.gif$/ $image,domain=vebo4.net|thapcam73.live|cakeotv.org
 ! thapcam
 ||thapcamtvz.net^*.gif$image,domain=thapcam73.live
 thapcam73.live##.btnz
@@ -74,3 +56,17 @@ cakeotv.org##.modal
 cakeotv.org##.popup-sda
 cakeotv.org##.active.bg-overlay
 cakeotv.org##.rn-close
+! bitly/tiengruoi
+15.235.211.51^$popup
+vebo.bet^$popup
+##a[href*="https://banner.1xcakeo.bet"]
+##a[href*="https://798753.com"]
+##a[href*="https://vebo.tv"]
+##a[href*="https://cakeo.tv"]
+##a[href*="https://thapcam.tv"]
+##a[href*="15.235.211.51"]
+##div[style*='url("/img/cuoc-ngay.gif")']
+||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
+||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org
+||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
+||4shares.live90link/bec/^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
