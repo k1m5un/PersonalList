@@ -1,3 +1,5 @@
+! Title: Personal List
+! Description: Some additional ad-blocking rules for personal use
 ! thivien
 thivien.net##.notification
 ! google
