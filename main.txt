@@ -6,6 +6,8 @@ thivien.net##.notification
 www.google.*^$removeparam=/^(aqs|iflsig|gs_lcp|sca_esv|gs_lp|uact|client|sclient|sourceid|source|oq|aq|pq|sa|swrnum|as_q|oi|resnum|gs_lcrp|gs_l|bav|bvm|bpcl|biw|bih|w|h|tbnh|tbnw|fp|ei|usg|sig2|tbs|ved|si|pdx|ech|psi|emsg|facrc|imgdii|iact|ndsp|tx|ty)=/
 ! wsj
 wsj.com^$removeparam=/^(mod)=/
+! raindrop.io
+app.raindrop.io##.upgrade-R9fx
 ! 365scores
 365scores.com##[class^="external-ad"]
 ! hacker news
