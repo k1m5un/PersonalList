@@ -13,7 +13,7 @@ app.raindrop.io##.upgrade-R9fx
 ! hacker news
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
-! vebo - thapcam - cakeo
+! bitly/tiengruoi
 15.235.211.51^$popup
 vebo.bet^$popup
 ##a[href*="https://banner.1xcakeo.bet"]
@@ -60,3 +60,12 @@ vebo4.net##.btn-bet-top
 vebo4.net##.item-betnow
 vebo4.net##.box-host
 vebo4.net##.modal-backdrop
+! cakeo
+cakeotv.org##.mmo
+cakeotv.org##.mmo-2
+cakeotv.org##.mmo-1
+cakeotv.org##.mmo-inner
+cakeotv.org##.modal
+cakeotv.org##.popup-sda
+cakeotv.org##.active.bg-overlay
+cakeotv.org##.rn-close
