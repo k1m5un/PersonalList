@@ -9,6 +9,19 @@ wsj.com^$removeparam=/^(mod)=/
 ! hacker news
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
+! vebo - thapcam - cakeo
+15.235.211.51^$popup
+vebo.bet^$popup
+##a[href*="https://banner.1xcakeo.bet"]
+##a[href*="https://798753.com"]
+##a[href*="https://vebo.tv"]
+##a[href*="https://cakeo.tv"]
+##a[href*="https://thapcam.tv"]
+##a[href*="15.235.211.51"]
+##div[style*='url("/img/cuoc-ngay.gif")']
+||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
+||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org
+||4shares.live/90link/*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
 ! thapcam
 ||thapcamtvz.net^*.gif$image,domain=thapcam73.live
 thapcam73.live##.btnz
@@ -34,3 +47,12 @@ thapcam73.live##.modal-backdrop.show
 thapcam73.live##.show.fade
 thapcam73.live##.chat-require-login
 thapcam73.live##html:style(overflow: auto !important)
+! vebo
+vebo4.net##.fade.show
+vebo4.net###m-bet
+vebo4.net##div[class*="size-"]
+vebo4.net##.ibs-bet
+vebo4.net##.btn-bet-top
+vebo4.net##.item-betnow
+vebo4.net##.box-host
+vebo4.net##.modal-backdrop
