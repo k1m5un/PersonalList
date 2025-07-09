@@ -15,29 +15,29 @@ news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); backgro
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
 ! thapcam
 ||thapcamtvz.net^*.gif$image
-thapcam73.run,thapcam73.live##.btnz
-thapcam73.run,thapcam73.live##.grid-match__footer>a.btn:nth-of-type(2)
-thapcam73.run,thapcam73.live##a[rel="nofollow"]
-thapcam73.run,thapcam73.live###partner5
-thapcam73.run,thapcam73.live##.container.pc.g-imgtop
-thapcam73.run,thapcam73.live##.d-md-none.d-block.mobile.g-imgbot
-thapcam73.run,thapcam73.live##.group-btn
-thapcam73.run,thapcam73.live##.list-main-link
-thapcam73.run,thapcam73.live##.ref-link
-thapcam73.run,thapcam73.live##.btn-top.btnz
-thapcam73.run,thapcam73.live##.grid-match__footer>a.btn:nth-child(3)
-thapcam73.run,thapcam73.live##.mct_-bet-bot
-thapcam73.run,thapcam73.live##.mmo
-thapcam73.run,thapcam73.live##.mmo-inner
-thapcam73.run,thapcam73.live##.modal
-thapcam73.run,thapcam73.live##.mzdal
-thapcam73.run,thapcam73.live##.btn-odds
-thapcam73.run,thapcam73.live###m-bet
-thapcam73.run,thapcam73.live##.active.bg-overlay
-thapcam73.run,thapcam73.live##.modal-backdrop.show
-thapcam73.run,thapcam73.live##.show.fade
-thapcam73.run,thapcam73.live##.chat-require-login
-thapcam73.run,thapcam73.live##html:style(overflow: auto !important)
+thapcam73.life,thapcam73.run,thapcam73.live##.btnz
+thapcam73.life,thapcam73.run,thapcam73.live##.grid-match__footer>a.btn:nth-of-type(2)
+thapcam73.life,thapcam73.run,thapcam73.live##a[rel="nofollow"]
+thapcam73.life,thapcam73.run,thapcam73.live###partner5
+thapcam73.life,thapcam73.run,thapcam73.live##.container.pc.g-imgtop
+thapcam73.life,thapcam73.run,thapcam73.live##.d-md-none.d-block.mobile.g-imgbot
+thapcam73.life,thapcam73.run,thapcam73.live##.group-btn
+thapcam73.life,thapcam73.run,thapcam73.live##.list-main-link
+thapcam73.life,thapcam73.run,thapcam73.live##.ref-link
+thapcam73.life,thapcam73.run,thapcam73.live##.btn-top.btnz
+thapcam73.life,thapcam73.run,thapcam73.live##.grid-match__footer>a.btn:nth-child(3)
+thapcam73.life,thapcam73.run,thapcam73.live##.mct_-bet-bot
+thapcam73.life,thapcam73.run,thapcam73.live##.mmo
+thapcam73.life,thapcam73.run,thapcam73.live##.mmo-inner
+thapcam73.life,thapcam73.run,thapcam73.live##.modal
+thapcam73.life,thapcam73.run,thapcam73.live##.mzdal
+thapcam73.life,thapcam73.run,thapcam73.live##.btn-odds
+thapcam73.life,thapcam73.run,thapcam73.live###m-bet
+thapcam73.life,thapcam73.run,thapcam73.live##.active.bg-overlay
+thapcam73.life,thapcam73.run,thapcam73.live##.modal-backdrop.show
+thapcam73.life,thapcam73.run,thapcam73.live##.show.fade
+thapcam73.life,thapcam73.run,thapcam73.live##.chat-require-login
+thapcam73.life,thapcam73.run,thapcam73.live##html:style(overflow: auto !important)
 ! vebo
 vebo4.net##.fade.show
 vebo4.net###m-bet
@@ -67,6 +67,6 @@ vebo.bet^$popup
 ##a[href*="https://thapcam.tv"]
 ##a[href*="15.235.211.51"]
 ##div[style*='url("/img/cuoc-ngay.gif")']
-||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run
-||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run
-||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run
+||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life
+||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life
+||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life
