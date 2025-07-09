@@ -69,4 +69,3 @@ vebo.bet^$popup
 ||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
 ||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org
 ||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
-||4shares.live90link/bec/^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
