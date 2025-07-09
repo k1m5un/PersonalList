@@ -14,7 +14,7 @@ thivien.net##.notification
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
 ! thapcam
-||thapcamtvz.net^*.gif$image,domain=thapcam73.run,thapcam73.live
+||thapcamtvz.net^*.gif$image
 thapcam73.run,thapcam73.live##.btnz
 thapcam73.run,thapcam73.live##.grid-match__footer>a.btn:nth-of-type(2)
 thapcam73.run,thapcam73.live##a[rel="nofollow"]
