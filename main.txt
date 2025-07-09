@@ -25,7 +25,12 @@ vebo.bet^$popup
 ##div[style*='url("/img/cuoc-ngay.gif")']
 ||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
 ||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org
+! Testing
 ||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org
+! uBlock
+/4shares\.live\/.*\.gif$/$image,domain=vebo4.net|thapcam73.live|cakeotv.org
+! AdGuard
+/^https?:\/\/([a-z0-9-]+\.)?4shares\.live\/.*\.gif$/ $image,domain=vebo4.net|thapcam73.live|cakeotv.org
 ! thapcam
 ||thapcamtvz.net^*.gif$image,domain=thapcam73.live
 thapcam73.live##.btnz
