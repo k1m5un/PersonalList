@@ -9,7 +9,7 @@ raindrop.io##.upgrade-R9fx
 ! 365scores
 365scores.com##[class*="external-ad"]
 ! procyclingstats.com
-procyclingstats.com##[id*=r89-live-ad]
+procyclingstats.com##[id*="r89-live-ad"]
 ! thivien
 thivien.net##.notification
 ! hacker news
