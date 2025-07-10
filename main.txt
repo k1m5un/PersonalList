@@ -10,6 +10,8 @@ raindrop.io##.upgrade-R9fx
 365scores.com##[class*="external-ad"]
 ! procyclingstats.com
 procyclingstats.com##[id*="r89-live-ad"]
+! firstcyling.com
+firstcycling.com##[class="r89-desktop-billboard-atf"]
 ! thivien
 thivien.net##.notification
 ! hacker news
