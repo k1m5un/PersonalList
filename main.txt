@@ -44,15 +44,15 @@ thapcam73.life,thapcam73.run,thapcam73.live##.show.fade
 thapcam73.life,thapcam73.run,thapcam73.live##.chat-require-login
 thapcam73.life,thapcam73.run,thapcam73.live##html:style(overflow: auto !important)
 ! vebo
-! vebo4.net##.fade.show
+vebo4.net##.fade.show
 vebo4.net###m-bet
 vebo4.net##div[class*="size-"]
 vebo4.net##.ibs-bet
 vebo4.net##.btn-bet-top
 vebo4.net##.item-betnow
 vebo4.net##.box-host
-! vebo4.net##.modal-backdrop
 vebo4.net##a[href*="/goto"]
+! vebo4.net##.modal-backdrop
 ! cakeo
 cakeotv.org##.mmo
 cakeotv.org##.mmo-2
