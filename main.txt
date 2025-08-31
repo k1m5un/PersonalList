@@ -44,14 +44,14 @@ thapcam73.life,thapcam73.run,thapcam73.live##.show.fade
 thapcam73.life,thapcam73.run,thapcam73.live##.chat-require-login
 thapcam73.life,thapcam73.run,thapcam73.live##html:style(overflow: auto !important)
 ! vebo
-vebo8.fun,vebo4.net##.fade.show
-vebo8.fun,vebo4.net###m-bet
-vebo8.fun,vebo4.net##div[class*="size-"]
-vebo8.fun,vebo4.net##.ibs-bet
-vebo8.fun,vebo4.net##.btn-bet-top
-vebo8.fun,vebo4.net##.item-betnow
-vebo8.fun,vebo4.net##.box-host
-vebo8.fun,vebo4.net##a[href*="/goto"]
+vebo8.hair,vebo8.fun,vebo4.net##.fade.show
+vebo8.hair,vebo8.fun,vebo4.net###m-bet
+vebo8.hair,vebo8.fun,vebo4.net##div[class*="size-"]
+vebo8.hair,vebo8.fun,vebo4.net##.ibs-bet
+vebo8.hair,vebo8.fun,vebo4.net##.btn-bet-top
+vebo8.hair,vebo8.fun,vebo4.net##.item-betnow
+vebo8.hair,vebo8.fun,vebo4.net##.box-host
+vebo8.hair,vebo8.fun,vebo4.net##a[href*="/goto"]
 ! cakeo
 cakeotv.org##.mmo
 cakeotv.org##.mmo-2
@@ -71,7 +71,7 @@ vebo.bet^$popup
 ##a[href*="https://thapcam.tv"]
 ##a[href*="15.235.211.51"]
 ##div[style*='url("/img/cuoc-ngay.gif")']
-||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life|crunchyrolll.xyz|vebo8.fun
-||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life|crunchyrolll.xyz|vebo8.fun
-||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life|crunchyrolll.xyz|vebo8.fun
+||imgur.com^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life|crunchyrolll.xyz|vebo8.fun|vebo8.hair
+||tinhte.vn^*.gif$domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life|crunchyrolll.xyz|vebo8.fun|vebo8.hair
+||4shares.live^*.gif$image,domain=vebo4.net|thapcam73.live|cakeotv.org|thapcam73.run|thapcam73.life|crunchyrolll.xyz|vebo8.fun|vebo8.hair
 ||crunchyrolll.xyz^*.gif$image
