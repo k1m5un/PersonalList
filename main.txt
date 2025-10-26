@@ -77,3 +77,39 @@ vebo.bet^$popup
 ||tinhte.vn^*.gif$domain=tthapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
 ||4shares.live^*.gif$image,domain=thapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
 ||crunchyrolll.xyz^*.gif$image
+
+! Bypass Paywall
+||cm.bloomberg.com^$xmlhttprequest,~third-party
+||assets.bwbx.io/s3/javelin/public/javelin/js/foundation/transporter/foundation_transporter-*.js$script,domain=bloomberg.com
+bloomberg.com##+js(ra, data-paywall-overlay-status, body[data-paywall-overlay-status], stay)
+bloomberg.com##div[id^="fortress-"]
+bloomberg.com##+js(set-local-storage-item, history, $remove$)
+||bloombergadria.com/*/news$inline-script
+bloombergadria.com##+js(ra, style, article.single-news[style], stay)
+/\.businessinsider\.com\/chunks\/scripts\/\d.+\.js/$script,domain=businessinsider.com,~third-party
+businessinsider.jp##+js(ra, hidden, div.piano-paywall-container[hidden])
+cnbc.com##div.ArticleGate-proGate
+cnbc.com##+js(ra, class|hidden, span[hidden])
+cnn.com##div[data-component-id="subwall"]
+cnn.com##+js(ra, style, html[style], stay)
+cnn.com##+js(ra, style, body[style], stay)
+cnn.com##+js(set-local-storage-item, /reg_?wall/i, $remove$)
+cyclingnews.com##+js(rc, paywall-locker, div.paywall-locker)
+forbes.com##+js(ra, class, html[class], stay)
+forbes.com##+js(ra, class, body[class], stay)
+forbes.com.au##+js(cookie-remover, blaize_session)
+foxnews.com##+js(ra, class, div[class*="gated-overlay"])
+foxnews.com##div.article-gating-wrapper
+||latimes.com/meteringjs/$script,~third-party
+marketwatch.com##+js(cookie-remover, cX_P)
+||meter-svc.nytimes.com/meter.js$xmlhttprequest,~third-party
+||nytimes.com/svc/onsite-messaging/query$xmlhttprequest,~third-party
+||mwcm.nyt.com/$script,domain=nytimes.com
+nytimes.com##div[data-testid="inline-message"],div[id^="ad-"],div#dock-container,div.pz-ad-box
+||cooking.nytimes.com/api/*/access$xmlhttprequest,~third-party
+thetimes.com##html:style(overflow: auto !important;)
+thetimes.com##body:style(overflow: auto !important;)
+thetimes.com##+js(rc, TeaserPage, body.TeaserPage)
+||washingtonpost.com/*/tetro-client/$script,~third-party
+||assets.guim.co.uk/assets/SignInGate*.js$script,domain=theguardian.com
+theguardian.com##[name="SlotBodyEnd"],div[data-cy="contributions-liveblog-epic"]
