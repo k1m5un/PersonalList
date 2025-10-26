@@ -9,6 +9,8 @@ raindrop.io##.upgrade-R9fx
 ! 365scores
 365scores.com##[class*="external-ad"]
 365scores.com##[class*="main-content_prediction"]
+! sofascore
+sofascore.com##div[class*="cursor_pointer"]
 ! procyclingstats.com
 procyclingstats.com##[id*="r89-live-ad"]
 ! firstcyling.com
