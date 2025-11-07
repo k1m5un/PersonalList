@@ -113,3 +113,5 @@ thetimes.com##+js(rc, TeaserPage, body.TeaserPage)
 ||washingtonpost.com/*/tetro-client/$script,~third-party
 ||assets.guim.co.uk/assets/SignInGate*.js$script,domain=theguardian.com
 theguardian.com##[name="SlotBodyEnd"],div[data-cy="contributions-liveblog-epic"]
+livescore.com##[data-id="ads-hl"]
+elektormagazine.com##[data-identifier="advertisement0"]
