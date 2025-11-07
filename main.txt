@@ -115,3 +115,4 @@ thetimes.com##+js(rc, TeaserPage, body.TeaserPage)
 theguardian.com##[name="SlotBodyEnd"],div[data-cy="contributions-liveblog-epic"]
 livescore.com##[data-id="ads-hl"]
 elektormagazine.com##[data-identifier="advertisement0"]
+eevblog.com##center
