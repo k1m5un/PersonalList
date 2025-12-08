@@ -8,9 +8,6 @@ wsj.com^$removeparam=/^(mod)=/
 raindrop.io##.upgrade-R9fx
 ! 365scores
 365scores.com##[class*="external-ad"]
-365scores.com##[class*="main-content_prediction"]
-365scores.com##[class*="interstitial-ad"]
-365scores.com##[class*="website_header_container"]
 ! sofascore
 sofascore.com##[class*="cursor_pointer"]
 ! procyclingstats.com
