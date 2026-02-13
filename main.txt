@@ -76,6 +76,8 @@ vebo.bet^$popup
 ||tinhte.vn^*.gif$domain=tthapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
 ||4shares.live^*.gif$image,domain=thapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
 ||crunchyrolll.xyz^*.gif$image
+! thiending.live
+thiendinh.live^*.gif
 
 ! Bypass Paywall
 ||cm.bloomberg.com^$xmlhttprequest,~third-party
