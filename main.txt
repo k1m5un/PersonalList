@@ -19,65 +19,10 @@ thivien.net##.notification
 ! hacker news
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
-! thapcam
-||thapcamtvz.net^*.gif$image
-thapcam73.live##.btnz
-thapcam73.live##.grid-match__footer>a.btn:nth-of-type(2)
-thapcam73.live##a[rel="nofollow"]
-thapcam73.live###partner5
-thapcam73.live##.container.pc.g-imgtop
-thapcam73.live##.d-md-none.d-block.mobile.g-imgbot
-thapcam73.live##.group-btn
-thapcam73.live##.list-main-link
-thapcam73.live##.ref-link
-thapcam73.live##.btn-top.btnz
-thapcam73.live##.grid-match__footer>a.btn:nth-child(3)
-thapcam73.live##.mct_-bet-bot
-thapcam73.live##.mmo
-hapcam73.live##.mmo-inner
-thapcam73.live##.modal
-thapcam73.live##.mzdal
-thapcam73.live##.btn-odds
-thapcam73.live###m-bet
-thapcam73.live##.active.bg-overlay
-thapcam73.live##.modal-backdrop.show
-thapcam73.live##.show.fade
-thapcam73.live##.chat-require-login
-thapcam73.live##html:style(overflow: auto !important)
-! vebo
-vebo8.fun##.fade.show
-vebo8.fun###m-bet
-vebo8.fun##div[class*="size-"]
-vebo8.fun##.ibs-bet
-vebo8.fun##.btn-bet-top
-vebo8.fun##.item-betnow
-vebo8.fun##.box-host
-vebo8.fun##a[href*="/goto"]
-! cakeo
-cakeotv.org##.mmo
-cakeotv.org##.mmo-2
-cakeotv.org##.mmo-1
-cakeotv.org##.mmo-inner
-cakeotv.org##.modal
-cakeotv.org##.popup-sda
-cakeotv.org##.active.bg-overlay
-cakeotv.org##.rn-close
-! bitly/tiengruoi
-15.235.211.51^$popup
-vebo.bet^$popup
-##a[href*="https://banner.1xcakeo.bet"]
-##a[href*="https://798753.com"]
-##a[href*="https://vebo.tv"]
-##a[href*="https://cakeo.tv"]
-##a[href*="https://thapcam.tv"]
-##a[href*="15.235.211.51"]
-##div[style*='url("/img/cuoc-ngay.gif")']
-||imgur.com^*.gif$image,domain=thapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
-||tinhte.vn^*.gif$domain=tthapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
-||4shares.live^*.gif$image,domain=thapcam73.live|cakeotv.org|crunchyrolll.xyz|vebo8.fun
-||crunchyrolll.xyz^*.gif$image
 ! thiendinh.live
 thiendinh.live^*.gif
+! 8xbet
+8xbet1.com##._component-banner-video_4sclm_2
 
 ! Bypass Paywall
 ||cm.bloomberg.com^$xmlhttprequest,~third-party
