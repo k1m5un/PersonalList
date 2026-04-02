@@ -22,7 +22,7 @@ news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !importan
 ! thiendinh.live
 thiendinh.live^*.gif
 ! 8xbet
-8xbet1.com####div.relative.overflow-hidden:has(video._component-banner-video_4sclm_2)
+8xbet1.com##div.relative.overflow-hidden:has(video._component-banner-video_4sclm_2)
 
 ! Bypass Paywall
 ||cm.bloomberg.com^$xmlhttprequest,~third-party
