@@ -20,7 +20,7 @@ thivien.net##.notification
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
 ! thiendinh.live
-thiendinh.live^*.gif
+thiendinh.live,thiendinh2.tv,thiendinh1.live^*.gif
 ! 8xbet
 8xbet1.com,8x9988.com,8xbet345.com,8xbet.com##div.relative.overflow-hidden:has(video._component-banner-video_4sclm_2)
 
