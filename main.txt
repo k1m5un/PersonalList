@@ -20,6 +20,7 @@ thivien.net##.notification
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
 ! merriam-webster
+merriam-webster.com##.tbgads-slot-wrap
 merriam-webster.com##.tbgads-anchor-slot-wrap
 ! Allow OpenWeb and Spot.IM comment scripts exclusively on WSJ
 @@||spot.im^$domain=wsj.com
