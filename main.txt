@@ -19,8 +19,8 @@ thivien.net##.notification
 ! hacker news
 news.ycombinator.com##html:style(filter: invert(95%) hue-rotate(180deg); background: white)  
 news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !important;)
-! thiendinh.live
-/*.gif^$image,domain=thiendinh.live|thiendinh2.tv|thiendinh1.live
+! merriam-webster
+merriam-webster.com##.tbgads-anchor-slot-wrap
 ! Allow OpenWeb and Spot.IM comment scripts exclusively on WSJ
 @@||spot.im^$domain=wsj.com
 @@||openweb.com^$domain=wsj.com
