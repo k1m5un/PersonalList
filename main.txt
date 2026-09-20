@@ -22,6 +22,8 @@ news.ycombinator.com##td[bgcolor="#000000"]:style(filter: invert(100%) !importan
 ! merriam-webster
 merriam-webster.com##.tbgads-slot-wrap
 merriam-webster.com##.tbgads-anchor-slot-wrap
+! voz
+voz.vn##.voz-adSlot
 ! Allow OpenWeb and Spot.IM comment scripts exclusively on WSJ
 @@||spot.im^$domain=wsj.com
 @@||openweb.com^$domain=wsj.com
