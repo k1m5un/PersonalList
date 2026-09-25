@@ -29,6 +29,7 @@ elektormagazine.com##[data-identifier="advertisement0"]
 eevblog.com##center
 ! xoilac
 xoilaczzq.cc##div[data-ad-slot="ads-float-header-fullwidth"]
+xoilaczzq.cc##div[data-ad-slot="ads-above-player"]
 xoilaczzq.cc##.xlz-btn-8xbet
 !
 !
