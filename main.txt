@@ -28,9 +28,9 @@ voz.vn##.voz-adSlot
 elektormagazine.com##[data-identifier="advertisement0"]
 eevblog.com##center
 ! xoilac
-xoilaczzq.cc##div[data-ad-slot="ads-float-header-fullwidth"]
-xoilaczzq.cc##div[data-ad-slot="ads-above-player"]
-xoilaczzq.cc##.xlz-btn-8xbet
+xoilaczzw.cc##div[data-ad-slot="ads-float-header-fullwidth"]
+xoilaczzw.cc##div[data-ad-slot="ads-above-player"]
+xoilaczzw.cc##.xlz-btn-8xbet
 !
 !
 ! allow list
